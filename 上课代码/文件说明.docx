@@ -1,0 +1,13 @@
+stroy - 实现了文本替换，利用replacingOccurrences函数
+string a + b - 已完成，基础的输出口应用和按钮相应实现string“a+b”
+Running!~ -  已完成，滑块、步进与动画，实现了UIImage的图像循环展示
+Alert - 多种方法实现提醒用户	
+more_sences - 实现多场景，利用按钮实现切换
+Data Choose - 实现利用工具栏tool bar和选择器picker完成场景切换的数据选择
+lettab - tab bar 选项卡栏，一般在屏幕底部，可以理解为QQ底部的多个选择
+Navigation bar - 导航栏，一般在屏幕顶部，可以理解为QQ进去聊天界面，再点开资料卡
+
+TableView - 已完成，利用TableView控件实现列表显示
+
+还有一个没学过的高级界面对象和视图，待学习
+Object - 高级界面对象和视图，实现分段控件的选择和web视图的加载
